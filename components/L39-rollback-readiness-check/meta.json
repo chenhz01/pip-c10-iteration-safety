@@ -1,0 +1,9 @@
+{
+  "id": "L39",
+  "slug": "rollback-readiness-check",
+  "name": "回滚就绪检查",
+  "cluster": "迭代安全",
+  "dir": "L39-rollback-readiness-check",
+  "loc": 36,
+  "chars": 1010
+}

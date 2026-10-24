@@ -1,0 +1,38 @@
+[
+  {
+    "id": "L37",
+    "slug": "self-modification-tripwire",
+    "name": "自改绊线",
+    "cluster": "迭代安全",
+    "dir": "L37-self-modification-tripwire",
+    "loc": 39,
+    "chars": 1008
+  },
+  {
+    "id": "L38",
+    "slug": "invariant-snapshotter",
+    "name": "不变量快照",
+    "cluster": "迭代安全",
+    "dir": "L38-invariant-snapshotter",
+    "loc": 41,
+    "chars": 1069
+  },
+  {
+    "id": "L39",
+    "slug": "rollback-readiness-check",
+    "name": "回滚就绪检查",
+    "cluster": "迭代安全",
+    "dir": "L39-rollback-readiness-check",
+    "loc": 36,
+    "chars": 1010
+  },
+  {
+    "id": "L40",
+    "slug": "blast-radius-estimator",
+    "name": "爆炸半径估算",
+    "cluster": "迭代安全",
+    "dir": "L40-blast-radius-estimator",
+    "loc": 41,
+    "chars": 1087
+  }
+]

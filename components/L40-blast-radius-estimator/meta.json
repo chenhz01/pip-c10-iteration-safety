@@ -1,0 +1,9 @@
+{
+  "id": "L40",
+  "slug": "blast-radius-estimator",
+  "name": "爆炸半径估算",
+  "cluster": "迭代安全",
+  "dir": "L40-blast-radius-estimator",
+  "loc": 41,
+  "chars": 1087
+}
